@@ -16,7 +16,8 @@ public class Myfistapp {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       System.out.println("Vampire sam"); // TODO code application logic here
+       System.out.println("thanathas 55024455");
+       System.out.println("information tcenology");// TODO code application logic here
     }
     
 }
